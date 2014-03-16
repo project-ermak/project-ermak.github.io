@@ -1,0 +1,3 @@
+[submodule "topology-editor"]
+       path = topology-editor
+       url = https://github.com/project-ermak/topology-editor.git
